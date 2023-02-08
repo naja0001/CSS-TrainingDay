@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(0, 245, 233);
+  color: red;
+}
+
+header {
+  background-color: lightgreen;
+  color: green;
+}
+
+h2 {
+  color: green;
+}
+
+section {
+  background-color: orange;
+  color: black;
+}
+
+#about {
+  background-color: rgb(92, 92, 179);
+}
+
+#boxmodel,
+#units {
+  background-color: brown;
+}
+
+#fonts {
+  background-color: bisque;
+}
+
+section.codebox {
+  background-color: pink;
+}
+
+nav ul {
+  list-style-type: none;
+}
